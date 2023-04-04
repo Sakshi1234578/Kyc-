@@ -6,5 +6,5 @@ from apis.database_models.lookup_role import lookup_role
 from apis.database_models.client_super_master import client_super_master
 from apis.database_models.bank_master import bank_master
 from apis.database_models.lookup_state import lookup_state
-from apis.database_models.client_account_details import client_account_details
+#from apis.database_models.client_account_details import client_account_details
 
